@@ -21,6 +21,7 @@
     "@screens/signature": "file:./screens/signature/",
     "@screens/waiting-list": "file:./screens/waiting-list/",
     "@screens/waiting-list-message": "file:./screens/waiting-list-message/",
+    "@screens/wallet": "file:./screens/create-appointment/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
