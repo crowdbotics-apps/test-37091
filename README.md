@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-welcome](screens/welcome)
 - [screen-waiting-list](screens/waiting-list)
 - [screen-waiting-list-message](screens/waiting-list-message)
+- [screen-signature](screens/signature)
 
 # Getting started: Frontend
 
