@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-welcome](screens/welcome)
 - [screen-waiting-list](screens/waiting-list)
+- [screen-waiting-list-message](screens/waiting-list-message)
 
 # Getting started: Frontend
 
