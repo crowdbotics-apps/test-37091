@@ -1236,6 +1236,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/book-appointment@file:./screens/book-appointment/":
+  version "1.0.0"
+
 "@screens/google-calendar@file:./screens/google-calendar":
   version "1.0.0"
 
@@ -1248,7 +1251,7 @@
 "@screens/waiting-list@file:./screens/waiting-list":
   version "1.0.0"
 
-"@screens/wallet@file:./screens/create-appointment/":
+"@screens/wallet@file:./screens/create-appointment":
   version "1.0.0"
 
 "@screens/welcome@file:./screens/welcome":

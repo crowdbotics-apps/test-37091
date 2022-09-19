@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signature](screens/signature)
 - [screen-google-calendar](screens/google-calendar)
 - [screen-appointment-create](screens/create-appointment)
+- [screen-appointment-booking](screens/book-appointment)
 
 # Getting started: Frontend
 

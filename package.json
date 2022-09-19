@@ -17,6 +17,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/signature": "file:./screens/signature/",
     "@screens/waiting-list": "file:./screens/waiting-list/",
